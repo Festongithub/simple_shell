@@ -1,0 +1,1 @@
+This project works on building simple shell  for data  manipulation as part of system embedment project, the project uses the basic concerpts of c  to build on this , and work on the larger picture OS's 
